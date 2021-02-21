@@ -1,7 +1,7 @@
 package mathcomp.oletsky.halfdivision;
 
 /**
- * Bisection method without checking zeroes
+ * Bisection method with checking zeroes
  */
 
 public class HalfDivisionTester {
